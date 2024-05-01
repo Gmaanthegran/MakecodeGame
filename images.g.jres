@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQFAAgAAAAiIgACICUgICAiIgIgJSAgIiIAAg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Demon"
+    },
+    "image1": {
+        "data": "hwQFAAgAAAAADgAA4t4iguLdUgLi3yKCIA0gAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerframe1"
+    },
+    "image3": {
+        "data": "hwQFAAgAAAAgDgCA4t4iAuLdUgLi3yKCAA0CAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerframe2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
